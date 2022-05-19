@@ -19,5 +19,5 @@ This website is developed for Horiseon marketing agency.This website is mainly d
 
 ## Website Link
 
-> Live link [https://maharjn.github.io/module-challenge-01/Develop/index.html]
+> Live link [https://maharjn.github.io/challenge-01/]
 
